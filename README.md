@@ -1,0 +1,2 @@
+IN CASE OF COFFEE SPILL
+# .dotfiles
