@@ -11,8 +11,3 @@ Approach
 Testing
 ---
 - `bbr` 
-
-Releasing
----
-- MCM Required: No
-- Rollback-safe: Yes
