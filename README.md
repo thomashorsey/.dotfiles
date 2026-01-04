@@ -2,6 +2,10 @@
 
 ## Prerequisites
 
+### macOS
+
+I do not use Arch, btw.
+
 ### brew
 
 ``` bash
