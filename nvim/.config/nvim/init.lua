@@ -15,7 +15,7 @@ vim.pack.add({
 vim.cmd("colorscheme github_light")
 vim.cmd(":hi statusline guibg=NONE guifg=black")
 
-vim.lsp.enable({ "lua_ls", "marksman" })
+vim.lsp.enable({ "lua_ls", "hls" })
 
 vim.schedule(function()
         vim.o.clipboard = 'unnamedplus'
